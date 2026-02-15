@@ -1,0 +1,7 @@
+
+path: C:\CSE-AI\SEM-4\Introduction to AI Robotics\PipeRobo\pi5-logic\datasets 
+train: images/train
+val: images/val
+
+nc: 2
+names: ['crack', 'corrosion']
