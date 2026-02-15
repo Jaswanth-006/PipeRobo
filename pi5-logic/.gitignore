@@ -27,7 +27,7 @@ env/
 *.sqlite
 
 # Model files
-*.pt
+#*.pt
 *.h5
 *.ckpt
 *.onnx
