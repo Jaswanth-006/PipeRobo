@@ -1,0 +1,64 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.db
+*.sqlite
+
+# Model files
+#*.pt
+*.h5
+*.ckpt
+*.onnx
+
+# YOLO
+runs/
+
+# Datasets
+/datasets/
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Ignore MLflow logs
+mlflow/
+
+# Ignore backup files
+*.backup
+
+# Ignore labels
+#*.labels
+
+# Ignore YAML files
+#*.yaml
+
+# Ignore test files
+/testing/
+
+# Ignore training files
+/training/
