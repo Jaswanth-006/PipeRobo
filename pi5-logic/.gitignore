@@ -52,10 +52,10 @@ mlflow/
 *.backup
 
 # Ignore labels
-*.labels
+#*.labels
 
 # Ignore YAML files
-*.yaml
+#*.yaml
 
 # Ignore test files
 /testing/
